@@ -1,6 +1,6 @@
 # Spotify-Youtube-Clone
 
-<a href=""> <img src="https://samarth30.github.io/assets/img/work/hotspoter/shopify.jpg"/> </a>
+<img src="https://raw.githubusercontent.com/samarth30/Spotify-Youtube-Clone/master/spotify.png"/>
 
 for source code contact samarth.gugnani30@gmail.com
 
