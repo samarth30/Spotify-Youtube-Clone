@@ -2,6 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/samarth30/Spotify-Youtube-Clone/master/spotify.png"/>
 
+### to learn more about the project visit https://samarth30.github.io/work.html
 for source code contact samarth.gugnani30@gmail.com
 
 <a href="https://imgflip.com/gif/3radh2"><img src="https://i.imgflip.com/3radh2.gif" title="made at imgflip.com"/></a>
